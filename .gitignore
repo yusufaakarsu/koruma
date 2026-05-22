@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Yabancı/geçici dosyalar (bu repoya ait değil)
+/01-sakayik-online-cloaking.js
+/02-sakayikistanbul-store-clean.js
+/t.md
